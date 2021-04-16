@@ -127,6 +127,7 @@ p{
     .title-image{
         position: static;
         width: 60%;
+        margin-top: 25px;
     }
     .ctc-link-txt{
         width: 20px;
