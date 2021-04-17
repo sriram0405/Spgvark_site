@@ -52,11 +52,11 @@ p{
 .download-button{
     margin: 5% 3% 5% 0;
 }
-.title-image{
+/* .title-image{
     width: 40%;
-    /* transform: rotate(15deg); */
+    transform: rotate(15deg);
     position: absolute;
-}
+} */
 /*END OF TITLE SECTION*/
 
 
@@ -64,8 +64,8 @@ p{
 #developers{
     padding: 7% 15%;
     background-color: #fff;
-    position: relative;
-    z-index: 1;
+/*     position: relative;
+    z-index: 1; */
     text-align: center;
 }
 .feature-box{
