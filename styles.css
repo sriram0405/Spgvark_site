@@ -1,5 +1,4 @@
 body{
-/*     margin: 0px; */
     font-family: "Montserrat";
 }
 h1{
@@ -31,9 +30,6 @@ p{
     color: #fff;
 }
 
-/* .container-fluid{
-    padding: 3% 15%;
-} */
 .navbar-brand{
     font-family: "ubuntu";
     font-size: 2.5rem;
@@ -52,11 +48,7 @@ p{
 .download-button{
     margin: 5% 3% 5% 0;
 }
-/* .title-image{
-    width: 40%;
-    transform: rotate(15deg);
-    position: absolute;
-} */
+
 /*END OF TITLE SECTION*/
 
 
@@ -64,8 +56,6 @@ p{
 #developers{
     padding: 7% 15%;
     background-color: #fff;
-/*     position: relative;
-    z-index: 1; */
     text-align: center;
 }
 .feature-box{
@@ -92,15 +82,7 @@ p{
 .testimonial-img{
     margin: 20px;
 }
-/* #press{
-    background-color: #ef8172;
-    text-align: center;
-    padding-bottom: 4%;
-}
-.press-img{
-    width: 15%;
-    margin: 20px 20px 50px;
-} */
+
 
 .carousel-item{
     padding: 7% 15%;
@@ -124,7 +106,6 @@ p{
     }
 
     .title-image{
-/*         position: static; */
         width: 60%;
         margin-top: 25px;
     }
@@ -163,14 +144,10 @@ p{
     width: 3%;
 }
 #projects{
-    /* padding: 7% 15%; */
     background-color: #2978b5;
     text-align: center;
     padding: 7% 15%;
 }
-/* .carousel-item{
-    padding: 7% 15%;
-} */
 .project-txt{
     color: #fff;
     margin-bottom: 60px;
@@ -189,7 +166,7 @@ p{
     text-decoration: none;
 }
 .ctc-link-txt{
-    /* margin: 0 auto 0 auto; */
+
     margin-top: 100px;
 
     color: #fff;
@@ -197,14 +174,11 @@ p{
 .hire-us-btn:hover{
    transform: scale(1.1);   
 }
-/* .pricing-button{
-    margin-right: 100px;
-} */
+
 .pricing-btn:hover{
    transform: scale(1.1); 
 }
 #contact-form{
-    /* text-align: center; */
     padding: 5% 10%;
 }
 
@@ -235,9 +209,7 @@ form{
 .form-control{
     background-color: #6394b9;
 }
-/* .form-group{
-    color: #fff;
-} */
+
 label{
     color: #fff;
 }
