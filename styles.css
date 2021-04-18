@@ -135,6 +135,9 @@ p{
     .contact-img{
         width: 100%;
     }
+    .social-media{
+       width: 6%;
+    }
 }
 
 
@@ -157,7 +160,7 @@ p{
 }
 .social-media{
     margin: 20px 10px;
-    width: 6%;
+    width: 3%;
 }
 #projects{
     /* padding: 7% 15%; */
