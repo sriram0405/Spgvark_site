@@ -171,6 +171,10 @@ p{
     font-size: 17px;
     color: #fff;
 }
+.mjit-link-txt{
+    font-size: 17px;
+    color: #000;
+}
 .hire-us-btn:hover{
    transform: scale(1.1);   
 }
